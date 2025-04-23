@@ -74,7 +74,6 @@ This project is a Colorbot designed for the game Valorant. It uses computer visi
 - This software is intended for educational purposes only.
 - Use at your own risk; the author is not responsible for any bans or penalties.
 - Compatible only with Arduino Leonardo boards and requires a USB Host Shield.
-- The public version is older and less precise than the private version available on Discord.
 - Always ensure your Arduino is properly powered to avoid bootloader issues.
 
 ## 💬 Support
