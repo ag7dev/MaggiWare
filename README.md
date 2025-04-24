@@ -53,7 +53,7 @@ This project is a Colorbot designed for the game Valorant. It uses computer visi
 4. **Run the Colorbot**:
    Launch the bot by running:
    ```bash
-   py maggiware.py
+   py main.py
    ```
 
 5. **In-Game Settings**:
